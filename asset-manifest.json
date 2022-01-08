@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://manisaideepika.github.io/csb-x3lip/static/css/main.07d4ef3d.chunk.css",
+    "main.js": "https://manisaideepika.github.io/csb-x3lip/static/js/main.6e7ce124.chunk.js",
+    "main.js.map": "https://manisaideepika.github.io/csb-x3lip/static/js/main.6e7ce124.chunk.js.map",
+    "runtime-main.js": "https://manisaideepika.github.io/csb-x3lip/static/js/runtime-main.21eaec78.js",
+    "runtime-main.js.map": "https://manisaideepika.github.io/csb-x3lip/static/js/runtime-main.21eaec78.js.map",
+    "static/js/2.7bb6f259.chunk.js": "https://manisaideepika.github.io/csb-x3lip/static/js/2.7bb6f259.chunk.js",
+    "static/js/2.7bb6f259.chunk.js.map": "https://manisaideepika.github.io/csb-x3lip/static/js/2.7bb6f259.chunk.js.map",
+    "index.html": "https://manisaideepika.github.io/csb-x3lip/index.html",
+    "static/css/main.07d4ef3d.chunk.css.map": "https://manisaideepika.github.io/csb-x3lip/static/css/main.07d4ef3d.chunk.css.map",
+    "static/js/2.7bb6f259.chunk.js.LICENSE.txt": "https://manisaideepika.github.io/csb-x3lip/static/js/2.7bb6f259.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21eaec78.js",
+    "static/js/2.7bb6f259.chunk.js",
+    "static/css/main.07d4ef3d.chunk.css",
+    "static/js/main.6e7ce124.chunk.js"
+  ]
+}
